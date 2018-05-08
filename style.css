@@ -1,0 +1,16 @@
+.navbar-brand{
+    background-color:lightseagreen;
+    color:white;
+    font-size: larger;
+}
+
+.mainBody{
+    margin:30px;
+}
+
+
+.footer-copyright{
+    background-color: gray;
+    padding-top:20px;
+    padding-bottom: 20px;
+}

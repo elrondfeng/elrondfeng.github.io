@@ -1,8 +1,54 @@
 <!DOCTYPE html>
 <head>
-  <title> Tao Feng </title>
+    <meta charset="UTF-8">
+    <title> Visualizaiton Dashboard </title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<p> HELLO THERE</p>
+
+<nav class="navbar">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">Lattitude</a>
+        </div>
+        <span class="whitespace"></span>
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots
+                    <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Max Temperature</a></li>
+                    <li><a href="#">Humidity</a></li>
+                    <li><a href="#">Cloudiness</a></li>
+                    <li><a href="#">Wind Speed</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Comparison</a></li>
+            <li><a href="#">Data</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row mainBody">
+        <div class="col-md-8">
+            <p>Summary:Latitude vs. X</p>
+        </div>
+        <div class="col-md-4">
+            <p>Visualizations</p>
+        </div>
+
+    </div>
+</div>
+
+<!--Copyright-->
+<div class="footer-copyright py-3 text-center">
+    © Copyright Coding 2017 Tao Feng
+</div>
+<!--/.Copyright-->
+
 </body>
 </html>         
