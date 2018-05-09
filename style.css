@@ -1,16 +1,63 @@
+.navbar-default{
+    margin-bottom:0px;
+}
+
+.navbar-header{
+    margin-left:100px;
+}
+
 .navbar-brand{
     background-color:lightseagreen;
     color:white;
     font-size: larger;
 }
 
-.mainBody{
-    margin:30px;
+.main{
+    background-color:lightgrey;
+    padding-top:20px;
+    padding-bottom:20px;
 }
+
+/*.main-container{
+    background-color: white;
+}*/
 
 
 .footer-copyright{
     background-color: gray;
     padding-top:20px;
     padding-bottom: 20px;
+}
+
+.left{
+    background-color: white;
+    margin-right:20px;
+}
+
+.right{
+    background-color: white;
+    margin-left:20px;
+}
+
+.title{
+    color:lightseagreen;
+    font-size: large;
+}
+
+.resize{
+    width: 300px;
+    height: auto;
+    float:left;
+}
+
+.smallPic{
+    width: 150px;
+    height: auto;
+    float:left;
+    display: inline;
+}
+
+
+body{
+    line-height:4.1;
 }
