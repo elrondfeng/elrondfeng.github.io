@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92c9659f-8ddc-4d7f-b615-a100453d2fbe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/LatCloud.PNG" afterPath="$PROJECT_DIR$/LatCloud.PNG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/LatHum.PNG" afterPath="$PROJECT_DIR$/LatHum.PNG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/LatTem.PNG" afterPath="$PROJECT_DIR$/LatTem.PNG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/LatWind.PNG" afterPath="$PROJECT_DIR$/LatWind.PNG" />
     </list>
     <ignored path="elrondfeng.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44994247">
-              <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+            <state vertical-scroll-proportion="0.2347526">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#!!top" expanded="false" />
               </folding>
@@ -42,29 +38,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatCloud.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LatCloud.PNG">
+      <file leaf-file-name="latcloud.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/latcloud.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatHum.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LatHum.PNG">
+      <file leaf-file-name="lathum.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lathum.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatTem.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LatTem.PNG">
+      <file leaf-file-name="lattem.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lattem.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatWind.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LatWind.PNG">
+      <file leaf-file-name="latwind.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/latwind.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -824,12 +820,12 @@
       <created>1525834651106</created>
       <option name="number" value="Default" />
       <updated>1525834651106</updated>
-      <workItem from="1525834655122" duration="5328000" />
+      <workItem from="1525834655122" duration="5526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5328000" />
+    <option name="totallyTimeSpent" value="5526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="6" width="1936" height="1056" extended-state="0" />
@@ -877,30 +873,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LatCloud.PNG">
+    <entry file="file://$PROJECT_DIR$/latcloud.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LatHum.PNG">
+    <entry file="file://$PROJECT_DIR$/lathum.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LatTem.PNG">
+    <entry file="file://$PROJECT_DIR$/lattem.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LatWind.PNG">
+    <entry file="file://$PROJECT_DIR$/latwind.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44994247">
-          <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.2347526">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#!!top" expanded="false" />
           </folding>
